@@ -1,2 +1,2 @@
 # TestRebase
-This is the first test from baseBranch
+This is the second test from baseBranch
